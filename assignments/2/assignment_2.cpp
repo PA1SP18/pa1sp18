@@ -25,6 +25,9 @@ int main() {
   // Set up our CinReader instance
   CinReader reader;
 
+  // Create Variables
+  char again;
+
   // Seed the Random Number Generator
   srand(time(0));
 
